@@ -1,0 +1,6 @@
+CV_ventricles
+k_ventricles
+k_FEC
+CV_atria
+k_atria
+k_BB
